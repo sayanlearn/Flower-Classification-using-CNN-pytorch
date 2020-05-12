@@ -1,6 +1,23 @@
-<h1> Readme </h1>
+# Flower Classification
 
-This is a mini-project wherein I learned how to use gpu's and ImageFolder class for image classification task. I have also described the function
-of each and every class in the PyTorch library. Any beginner will highly benefit from this as he will be able to make sense of what is 
-actually happening. 
-If you are new to PyTorch, then you can refer this.
+In this mini project, I have used the flower dataset from kaggle in order to train a CNN model that can classify flowers. I have also 
+described the functions of all the classes, methods in the PyTorch libraries so that a novice can understand it very clearly. Gpu's have
+also been used.
+
+## Getting Started
+
+The first step is to download the dataset from the given [link](https://www.kaggle.com/alxmamaev/flowers-recognition). Clone this repository on your local machine so as to access the .ipynb files. 
+The structure of the repository is shown as below:
+```
+Flower-Classification-using-CNN-pytorch
+│   README.md   
+│
+└───src
+│   │   Data loading.ipynb
+│   │   Flower classification with gpu.ipynb
+
+```
+### Prerequisites
+
+I recommend using google colab in order to access these files. There will be no dependency as everything is pre-installed. If you are using
+Jupyter Notebook, you have to install the dependencies which are imported in the jupyter notebook. 
