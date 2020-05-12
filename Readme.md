@@ -1,12 +1,11 @@
 # Flower Classification
 
 In this mini project, I have used the flower dataset from kaggle in order to train a CNN model that can classify flowers. I have also 
-described the functions of all the classes, methods in the PyTorch libraries so that a novice can understand it very clearly. Gpu's have
-also been used.
+described the functions of all the classes, methods I used so that even a novice can understand the code. GPU was used to speed up training.
 
 ## Getting Started
 
-The first step is to download the dataset from the given [link](https://www.kaggle.com/alxmamaev/flowers-recognition). Clone this repository on your local machine so as to access the .ipynb files or you can directly access from google colab. 
+The first step is to download the [dataset](https://www.kaggle.com/alxmamaev/flowers-recognition) from Kaggle. Clone this repository on your local machine so as to access the .ipynb files or you can directly access from google colab. 
 The structure of the repository is shown as below:
 ```
 Flower-Classification-using-CNN-pytorch
@@ -19,7 +18,7 @@ Flower-Classification-using-CNN-pytorch
 ```
 ### Prerequisites
 
-I recommend using google colab in order to access these files. There will be no dependency as everything is pre-installed. If you are using
+I recommend using google colab in order to access these files. There will be no dependency issues as everything is pre-installed. If you are using
 Jupyter Notebook, you have to install the dependencies which are imported in the interactive notebook. 
 
 ### Procedure
