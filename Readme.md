@@ -21,3 +21,10 @@ Flower-Classification-using-CNN-pytorch
 
 I recommend using google colab in order to access these files. There will be no dependency as everything is pre-installed. If you are using
 Jupyter Notebook, you have to install the dependencies which are imported in the jupyter notebook. 
+
+### Procedure
+Data loading.ipynb is used to split the dataset into training and testing set (and validation set). 
+
+**Beware:** This notebook can only be run once.
+
+Flower classification with gpu.ipynb is used to train a CNN model to classify the flower images and find out the accuracy of the model.
