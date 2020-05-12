@@ -6,7 +6,7 @@ also been used.
 
 ## Getting Started
 
-The first step is to download the dataset from the given [link](https://www.kaggle.com/alxmamaev/flowers-recognition). Clone this repository on your local machine so as to access the .ipynb files. 
+The first step is to download the dataset from the given [link](https://www.kaggle.com/alxmamaev/flowers-recognition). Clone this repository on your local machine so as to access the .ipynb files or you can directly access from google colab. 
 The structure of the repository is shown as below:
 ```
 Flower-Classification-using-CNN-pytorch
@@ -20,7 +20,7 @@ Flower-Classification-using-CNN-pytorch
 ### Prerequisites
 
 I recommend using google colab in order to access these files. There will be no dependency as everything is pre-installed. If you are using
-Jupyter Notebook, you have to install the dependencies which are imported in the jupyter notebook. 
+Jupyter Notebook, you have to install the dependencies which are imported in the interactive notebook. 
 
 ### Procedure
 Data loading.ipynb is used to split the dataset into training and testing set (and validation set). 
